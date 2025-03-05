@@ -1,0 +1,16 @@
+hello_#|#_ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
+2	https://virtualion.github.io/webgl-editor-test-0819/web-contents/sample-img/Splash.png	0,22.5,79	1,0,0	0,1,0	0,0,1	0.2559917	3.7755	0.2	1	Wooden_thin	-1:-1	2
+3	https://www.artic.edu/iiif/2/25c31d8d-21a4-9ea1-1d73-6a2eca4dda7e/full/843,/0/default.jpg	0,22.5,79	1,0,0	0,1,0	0,0,1	23.85016	4.5	0.2	1	Metal	-1:-1	4
+4	https://www.artic.edu/iiif/2/25c31d8d-21a4-9ea1-1d73-6a2eca4dda7e/full/843,/0/default.jpg	0,22.5,79	1,0,0	0,1,0	0,0,1	-19.93401	-7.658999	0.2	1	Metal	-1:-1	6_###_ID	type	x	z	theta	cover	uniqueCode	color
+_###_ID	dataClass	name	data	uniqueCode	x	y	z	urldetail	url
+2	2DObject	スプラッシュ（ウェブ）	スプラッシュ（ウェブ）	2	6.5	-4.494552	-1		https://virtualion.co.jp
+3	2DObject	The Bedroom	https://www.artic.edu/iiif/2/25c31d8d-21a4-9ea1-1d73-6a2eca4dda7e/full/843,/0/default.jpg	4	6.5	-3.560498	-1		https://api.artic.edu/api/v1/artworks/28560/manifest.json
+4	2DObject	The Bedroom	https://www.artic.edu/iiif/2/25c31d8d-21a4-9ea1-1d73-6a2eca4dda7e/full/843,/0/default.jpg	6	6.5	-3.560498	-1		https://api.artic.edu/api/v1/artworks/28560/manifest.json
+_###_id	data	x	y	z	theta	size	parent	uniqueCode
+_###_title	uniqueCode	path	targetPos
+_###_id	type	x	y	z	theta	gyokaku	range	spotAngle	intensity	color
+1	spot	0	43.5	47.82335	59.93118	269.6257	82	39.44631	1.335934	1,1,1,1_###_id	next	previous	captioning	pos	angle	audio	launchAngle
+_###_#title=
+#scale=2.5,1.5,2
+#color1=120,65,65
+#color2=184,184,186
